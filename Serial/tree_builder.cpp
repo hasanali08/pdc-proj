@@ -5,6 +5,7 @@
 #include <fstream>
 #include <iostream>
 #include <filesystem>
+//tree
 TreeBuilder::TreeBuilder(int n)
   : n_(n)
   , T_(n - 1)
